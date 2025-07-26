@@ -15,14 +15,14 @@ An interactive web-based quiz application that allows users to answer multiple-c
 
 online-quiz-app/
 ├── backend/
-│   ├── server.js           # Express backend with API routes
-│   └── questions.json      # Quiz question dataset
+│   ├── server.js           
+│   └── questions.json      
 ├── frontend/
-│   ├── index.html          # Main quiz interface
-│   ├── style.css           # Styling
-│   └── script.js           # Frontend logic (API, timer, feedback)
-├── README.md               # Project documentation
-└── package.json            # Node.js dependencies
+│   ├── index.html         
+│   ├── style.css           
+│   └── script.js          
+├── README.md               
+└── package.json            
 
 🛠️ Tech Stack
 
@@ -36,7 +36,8 @@ online-quiz-app/
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/yourusername/online-quiz-app.git
+git clone https://github.com/patelaayush11330/Online-quiz-app.git
+
 cd online-quiz-app
 
 2️⃣ Install Backend Dependencies
